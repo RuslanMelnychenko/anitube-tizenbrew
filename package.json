@@ -7,5 +7,5 @@
   "websiteURL": "https://anitube.in.ua",
   "main": "index.js",
   "serviceFile": "service.js",
-  "keys": ["anime", "anitube"]
+  "keys": []
 }
