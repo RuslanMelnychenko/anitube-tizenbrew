@@ -1,0 +1,11 @@
+{
+  "name": "anitube-tizenbrew",
+  "version": "1.0.0",
+  "description": "Вмикає мобільну версію anitube.in.ua на Samsung Tizen TV",
+  "packageType": "mods",
+  "appName": "AniTube",
+  "websiteURL": "https://anitube.in.ua",
+  "main": "index.js",
+  "serviceFile": "service.js",
+  "keys": ["anime", "anitube"]
+}
